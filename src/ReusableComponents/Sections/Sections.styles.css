@@ -1,0 +1,59 @@
+
+
+.iphonetext-links-wrapper ul{
+   list-style: none;
+}
+.product-title{
+text-align: center;
+ font-weight: 600;
+ font-size: 60px;
+
+}
+.product-title {
+    font-size: 56px;
+    line-height: 1.07143;
+    font-weight: 600;
+    letter-spacing: -.005em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+   padding-top: 50px;
+}
+.description{
+    margin-top: 5px;
+    font-size: 24px;
+    line-height: 1.7;
+    font-weight: 400;
+    letter-spacing: .009em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.iphonetext-links-wrapper{
+    padding: 15px 0;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.iphonetext-links-wrapper ul li{
+    display: inline-block;
+    padding-right: 20px;
+}
+.iphonetext-links-wrapper ul li a{
+    font-size: 20px;
+    color:rgb(41, 151, 255);
+    text-decoration: none;   
+}
+.iphonetext-links-wrapper ul li a:hover{
+    color: #000;
+}
+.iphonetext-links-wrapper ul li a:after{
+    font-family: "FontAwsome";
+    font-weight: 900;
+    content: "\f105";
+    padding-left: 10px;
+}
+.black-text{
+    color: #000;
+}
+.text-wrapper{
+    margin-bottom: 200rem;
+}
+
+
